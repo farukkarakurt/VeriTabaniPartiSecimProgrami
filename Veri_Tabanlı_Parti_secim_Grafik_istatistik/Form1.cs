@@ -12,6 +12,7 @@ using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace Veri_Tabanlı_Parti_secim_Grafik_istatistik
 {
+    //Emirhan KARAKURT
     public partial class Form1 : Form
     {
         public Form1()
